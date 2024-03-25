@@ -1,0 +1,13 @@
+D:\Desktop\MES_XJC\MES\MAssembly\Dll\SystemManege.pdb
+D:\Desktop\MES_XJC\MES\MAssembly\SystemManege\SystemManege\obj\Debug\SystemManege.csproj.AssemblyReference.cache
+D:\Desktop\MES_XJC\MES\MAssembly\SystemManege\SystemManege\obj\Debug\SystemManege.Properties.Resources.resources
+D:\Desktop\MES_XJC\MES\MAssembly\SystemManege\SystemManege\obj\Debug\SystemManege.csproj.GenerateResource.cache
+D:\Desktop\MES_XJC\MES\MAssembly\SystemManege\SystemManege\obj\Debug\SystemManege.csproj.CoreCompileInputs.cache
+D:\Desktop\MES_XJC\MES\MAssembly\SystemManege\SystemManege\obj\Debug\SystemManege.pdb
+D:\Desktop\MES_XJC\MES\MAssembly\Dll\SystemManege.dll.config
+D:\Desktop\MES_XJC\MES\MAssembly\Dll\SystemManege.dll
+D:\Desktop\MES_XJC\MES\MAssembly\SystemManege\SystemManege\obj\Debug\SystemManege.MenuManege.resources
+D:\Desktop\MES_XJC\MesClient\SystemManege.pdb
+D:\Desktop\MES_XJC\MesClient\SystemManege.dll.config
+D:\Desktop\MES_XJC\MesClient\SystemManege.dll
+D:\Desktop\MES_XJC\MES\MAssembly\SystemManege\SystemManege\obj\Debug\SystemManege.dll
